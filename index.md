@@ -5,3 +5,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 this is just a test of markdown
+
+``` javascript
+var myVar = "Hello, world!";
+```
